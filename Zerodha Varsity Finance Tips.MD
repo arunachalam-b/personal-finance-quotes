@@ -1,3 +1,7 @@
+Prompt: 
+Read through each chapter. Give me 3 personal finance tips from each chapter. Each tip should not go beyond 4 lines for 280 characters. I want to post each tip as a tweet. So, make it sound more human like. It should never feel like AI generated or machine generated. Explain in a casual manner
+
+Response: 
 Of course! Here are 3 tweet-sized, human-like personal finance tips from each chapter of the Zerodha Varsity module. 
 
 Chapter 1: Background and Orientation
